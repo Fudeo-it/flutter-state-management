@@ -1,0 +1,24 @@
+name: my_garden
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

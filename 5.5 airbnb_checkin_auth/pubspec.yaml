@@ -1,0 +1,37 @@
+name: airbnb_checkin
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.6
+  flutter_secure_storage: ^9.2.2
+  hydrated_bloc: ^9.1.5
+  json_annotation: ^4.8.1
+  path_provider: ^2.1.2
+  pine: ^1.0.3
+  pinput: ^5.0.0
+  copy_with_extension: ^5.0.4
+  collection: ^1.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.9
+  json_serializable: ^6.7.1
+  copy_with_extension_gen: ^5.0.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/bookings.json
+    - assets/users.json

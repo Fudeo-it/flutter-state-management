@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bk_dH23sw",
+    "name": "Cottage tra le Alpi",
+    "guestsCount": 2,
+    "assetPath": "assets/images/cottage.png",
+    "pinCode": "4560"
+  },
+  {
+    "id": "bk_dDC2sh",
+    "name": "Manhattan loft, New York",
+    "guestsCount": 3,
+    "assetPath": "assets/images/loft.png",
+    "pinCode": "6045"
+  }
+]
