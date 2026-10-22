@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "Cuffie Wireless Noise Cancelling",
+    "category": "Elettronica",
+    "price": 129.99,
+    "description": "Cuffie wireless con cancellazione attiva del rumore, 30h di autonomia e microfono integrato.",
+    "image": "assets/images/products/1.webp",
+    "quantity": 42,
+    "rating": 4.8,
+    "reviews": 256
+  },
+  {
+    "id": 2,
+    "name": "Maglietta Uomo Slim Fit",
+    "category": "Abbigliamento",
+    "price": 19.90,
+    "description": "Maglietta in cotone 100% con vestibilità slim, disponibile in più taglie.",
+    "image": "assets/images/products/2.webp",
+    "quantity": 150,
+    "rating": 4.8,
+    "reviews": 256
+  },
+  {
+    "id": 3,
+    "name": "Set Pentole Antiaderenti 5 pezzi",
+    "category": "Casa",
+    "price": 89.50,
+    "description": "Set di pentole con rivestimento antiaderente sicuro, compatibile con tutti i piani cottura.",
+    "image": "assets/images/products/3.webp",
+    "quantity": 25,
+    "rating": 4.8,
+    "reviews": 256
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch Sportivo GPS",
+    "category": "Elettronica",
+    "price": 159.00,
+    "description": "Smartwatch con monitoraggio battito, GPS integrato, resistenza all'acqua fino a 50m.",
+    "image": "assets/images/products/4.webp",
+    "quantity": 60,
+    "rating": 4.8,
+    "reviews": 256
+  },
+  {
+    "id": 5,
+    "name": "Borsa a tracolla in pelle",
+    "category": "Accessori",
+    "price": 74.99,
+    "description": "Borsa da donna in pelle sintetica, tracolla regolabile e chiusura con zip.",
+    "image": "assets/images/products/5.webp",
+    "quantity": 33,
+    "rating": 4.8,
+    "reviews": 256
+  },
+  {
+    "id": 6,
+    "name": "Crema Idratante Viso 50ml",
+    "category": "Bellezza",
+    "price": 12.50,
+    "description": "Crema leggera quotidiana, adatta a tutti i tipi di pelle. Formula senza parabeni.",
+    "image": "assets/images/products/6.webp",
+    "quantity": 200,
+    "rating": 4.8,
+    "reviews": 256
+  },
+  {
+    "id": 7,
+    "name": "Pasta di Semola 1kg",
+    "category": "Alimentari",
+    "price": 1.49,
+    "description": "Pasta italiana di semola di grano duro, formato tradizionale 1kg.",
+    "image": "assets/images/products/7.webp",
+    "quantity": 500,
+    "rating": 4.8,
+    "reviews": 256
+  },
+  {
+    "id": 8,
+    "name": "Zaino da Trekking 35L",
+    "category": "Outdoor",
+    "price": 69.00,
+    "description": "Zaino tecnico 35L con schienale traspirante, tasche multiple e copertura antipioggia.",
+    "image": "assets/images/products/8.webp",
+    "quantity": 18,
+    "rating": 4.8,
+    "reviews": 256
+  }
+]
+

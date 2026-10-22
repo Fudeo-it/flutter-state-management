@@ -1,0 +1,30 @@
+name: my_garden
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  equatable: ^2.0.5
+  flutter_riverpod: ^3.4.2
+  riverpod_sqflite: ^0.4.6
+  sqflite: ^2.4.3
+  path: ^1.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.15.1
+  faker: ^2.2.0
+  mockito: ^5.6.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/plants/
